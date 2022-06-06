@@ -234,6 +234,7 @@ label {
 .tooltype {
     position: relative;
     width: 375px;
+    height: 160px;
     margin-bottom: 100px;
 }
 
@@ -256,13 +257,9 @@ label {
     transition: fill .2s ease-in-out;
 }
 
-
-
-
-
 .popup {
     position: absolute;
-    bottom: 27px;
+    bottom: 95px;
     right: 98px;
     max-width: 163px;
     background-color: gray;
